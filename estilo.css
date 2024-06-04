@@ -1,0 +1,25 @@
+.row img {
+    float: left;
+    margin-right: 20px;}
+.row h1 {
+        font-family: "Ink Free", sans-serif;
+        text-align: center;}
+
+
+.object-container {
+         height: 500px; 
+        }
+        
+.object-container object {
+        width: 100%;
+        transform-origin: top left;
+        transform: scale(1); 
+        }
+        
+.section {
+            height: 100vh; 
+        }
+.menu-item:hover {
+            color: red; 
+            cursor: pointer; 
+        }
